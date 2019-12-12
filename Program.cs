@@ -9,7 +9,7 @@ namespace BinaryGuess
       var gamePlay = true;
       var min = 0;
       var max = 100;
-      var initializer = 50;
+      var initializer = max / 2;
 
       int guesses = 0;
 
@@ -18,7 +18,7 @@ namespace BinaryGuess
       string userReady;
 
 
-      Console.WriteLine("Do you want you mind read? Type P to Play");
+      Console.WriteLine("\nDo you want you mind read? Type P to Play\n");
       gameStart = Console.ReadLine();
       gameStart = gameStart.ToUpper();
 
@@ -56,6 +56,11 @@ namespace BinaryGuess
             {
               gamePlay = false;
               Console.WriteLine($"\nNow it all makes sense\n\nI only used {guesses} hints\n");
+            }
+            else
+            {
+              Console.WriteLine("\nInvalid entry\n\nYour Loss\n");
+              gamePlay = false;
             }
           }
 
