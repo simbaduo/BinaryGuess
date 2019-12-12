@@ -1,0 +1,11 @@
+/Users/honeybook/SDG/Projects/Week 07/BinaryGuess/obj/Debug/netcoreapp3.1/BinaryGuess.csprojAssemblyReference.cache
+/Users/honeybook/SDG/Projects/Week 07/BinaryGuess/obj/Debug/netcoreapp3.1/BinaryGuess.AssemblyInfoInputs.cache
+/Users/honeybook/SDG/Projects/Week 07/BinaryGuess/obj/Debug/netcoreapp3.1/BinaryGuess.AssemblyInfo.cs
+/Users/honeybook/SDG/Projects/Week 07/BinaryGuess/bin/Debug/netcoreapp3.1/BinaryGuess
+/Users/honeybook/SDG/Projects/Week 07/BinaryGuess/bin/Debug/netcoreapp3.1/BinaryGuess.deps.json
+/Users/honeybook/SDG/Projects/Week 07/BinaryGuess/bin/Debug/netcoreapp3.1/BinaryGuess.runtimeconfig.json
+/Users/honeybook/SDG/Projects/Week 07/BinaryGuess/bin/Debug/netcoreapp3.1/BinaryGuess.runtimeconfig.dev.json
+/Users/honeybook/SDG/Projects/Week 07/BinaryGuess/bin/Debug/netcoreapp3.1/BinaryGuess.dll
+/Users/honeybook/SDG/Projects/Week 07/BinaryGuess/bin/Debug/netcoreapp3.1/BinaryGuess.pdb
+/Users/honeybook/SDG/Projects/Week 07/BinaryGuess/obj/Debug/netcoreapp3.1/BinaryGuess.dll
+/Users/honeybook/SDG/Projects/Week 07/BinaryGuess/obj/Debug/netcoreapp3.1/BinaryGuess.pdb
